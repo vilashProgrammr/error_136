@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+C:\Users\Administrator\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+C:\Users\Administrator\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Administrator\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\Administrator\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Administrator\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\MvcMovie.pdb
