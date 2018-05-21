@@ -19,6 +19,8 @@ namespace MvcMovie.Controllers
         }
 
         // GET: Movies
+        //this is dj
+
         public async Task<IActionResult> Index()
         {
             return View(await _context.Movie.ToListAsync());
